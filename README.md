@@ -7,7 +7,7 @@ repository for projects completed in past courses
 
 *semester long project using **RStudio** to perform **agent-based modeling** using household data to create de facto settlements in a selected country and model migration patterns within the country*
 
-[Topic Modeling](https://abgaddi.github.io/course_projects/)
+[Topic Modeling](https://abgaddi.github.io/course_projects/TM/TM)
 
 *final project demonstrating **topic modeling** using a python jupyter notebook with speeches from UN General Debates*
 
