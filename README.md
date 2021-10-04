@@ -3,7 +3,7 @@ repository for projects completed in past courses
 
 ## Link to projects
 
-[Agent Based Modeling](https://abgaddi.github.io/course_projects/)
+[Agent Based Modeling](https://abgaddi.github.io/course_projects/ABM)
 
 *semester long project using **RStudio** to perform **agent-based modeling** using household data to create de facto settlements in a selected country and model migration patterns within the country*
 
