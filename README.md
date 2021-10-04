@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Course Projects
+repository for projects completed in past courses
 
-You can use the [editor on GitHub](https://github.com/abgaddi/course_projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Link to projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Agent Based Modeling](https://abgaddi.github.io/course_projects/)
 
-### Markdown
+*semester long project using **RStudio** to perform **agent-based modeling** using household data to create de facto settlements in a selected country and model migration patterns within the country*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Topic Modeling](https://abgaddi.github.io/course_projects/)
 
-```markdown
-Syntax highlighted code block
+*final project demonstrating **topic modeling** using a python jupyter notebook with speeches from UN General Debates*
 
-# Header 1
-## Header 2
-### Header 3
+[Linear Regression Analysis](https://abgaddi.github.io/course_projects/)
 
-- Bulleted
-- List
+*final project using **R** to demonstrate steps of **linear regression analysis** to see the effectiveness of predicting food choices on GPA*
 
-1. Numbered
-2. List
+[Cost Analysis](https://wm-gis.maps.arcgis.com/apps/Cascade/index.html?appid=8ba19ed231754ac88dd3331dfd9d7a54)
 
-**Bold** and _Italic_ and `Code` text
+*semester long project using **ArcGIS** to demonstrate **cost analysis** by identifying and creating layers for calculating overall cost to travel between two points*
 
-[Link](url) and ![Image](src)
-```
+[Habitat Suitability Analysis](https://storymaps.arcgis.com/stories/beacc16d6f8f48d89c379781fe7a905a)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*final project using **ArcGIS** to demonstrate **habitat suitability analysis** by identifying preferences and threats of a fictional animal and creating a weighted suitability model for the best habitat conservation areas*
 
-### Jekyll Themes
+[Data Visualizations](https://abgaddi.github.io/course_projects/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abgaddi/course_projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*projects that practice **data visualization** using python libraries as well as a final project using the **Tableau** dashboard feature*
 
-### Support or Contact
+[Spatial Data Discovery](https://spatial-data-discovery.github.io/project-abgaddi.html)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*final project exploring the progress of the third UN Sustainable Development Goal using data from UNICEF*
