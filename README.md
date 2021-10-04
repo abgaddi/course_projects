@@ -23,7 +23,7 @@ repository for projects completed in past courses
 
 *final project using **ArcGIS** to demonstrate **habitat suitability analysis** by identifying preferences and threats of a fictional animal and creating a weighted suitability model for the best habitat conservation areas*
 
-[Data Visualizations](https://abgaddi.github.io/course_projects/)
+[Data Visualizations](https://abgaddi.github.io/course_projects/DV/DV)
 
 *projects that practice **data visualization** using python libraries as well as a final project using the **Tableau** dashboard feature*
 
