@@ -1,23 +1,35 @@
 # Python Samples
 
-## Barplot
+### Barplot
 ![image](barplot.png)
+
+&nbsp;
 
 ## Subplots
 ![image](subplots.png)
+&nbsp;
 ![image](iris.png)
 
-## Heatmap
+&nbsp;
+
+### Heatmap
 ![image](heatmap.png)
 
-## PCP
+&nbsp;
+
+### PCP
 ![image](pcp.png)
 
-## PCA
+&nbsp;
+
+### PCA
 ![image](pca.png)
+&nbsp;
 ![image](pca_m2.png)
 
-## tSNE
+&nbsp;
+
+### tSNE
 ![image](tsne.png)
 
 
