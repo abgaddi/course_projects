@@ -1,5 +1,4 @@
 # Linear Regression Analysis
-## Presentation
 
 ![slide](food.png)
 ![slide](food%20(1).png)
