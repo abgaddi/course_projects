@@ -1,6 +1,6 @@
 # Topic Modeling
 
-[Jupyter Notebook PDF](https://abgaddi.github.io/course_projects/TM/notebook)
+[Jupyter Notebook PDF](https://abgaddi.github.io/course_projects/TM/final_notebook.pdf)
 
 # Written Analysis
 
