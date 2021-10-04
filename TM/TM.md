@@ -1,5 +1,7 @@
 # Topic Modeling
 
+[Jupyter Notebook PDF](https://abgaddi.github.io/course_projects/TM/notebook)
+
 # Written Analysis
 
 Every year, the General Debate marks the beginning of the United Nations General Assembly.  Unlike voting and decision making within the UN, the General Debate statements allow leaders of member states to address what they are actually concerned about or what they prioritize for their nation (Baturo, Dasandi, Mikhaylov 2017).  This analysis will look at the priorities and concerns of the member states and see if there are significant differences between low income, middle, and high-income countries.
