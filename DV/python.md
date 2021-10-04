@@ -5,7 +5,7 @@
 
 &nbsp;
 
-## Subplots
+### Subplots
 ![image](subplots.png)
 
 &nbsp;
