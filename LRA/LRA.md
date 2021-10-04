@@ -1,6 +1,6 @@
 # Linear Regression Analysis
 
-[Presentation](https://abgaddi.github.io/course_projects/TM/food_presentation.pdf)
+[Presentation](https://abgaddi.github.io/course_projects/LRA/food_presentation.pdf)
 
 # Written Analysis
 It is well known that effective studying done by a student brings improvement to his/her GPA.  So, as college students approaching the end of the semester, this analysis was conducted to perhaps answer our curiosity of seeing if another factor outside of studying, such as our food choices, could improve GPA. This analysis looks at the question on whether a college student’s food associations and choices have a relationship to his/her GPA. The data used was collected from a survey from Mercyhurst University students.  Responses from the survey are compromised from individual’s food choices, ideas of nutrition, as well as a few demographics.  
