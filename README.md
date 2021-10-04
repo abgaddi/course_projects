@@ -11,7 +11,7 @@ repository for projects completed in past courses
 
 *final project demonstrating **topic modeling** using a python jupyter notebook with speeches from UN General Debates*
 
-[Linear Regression Analysis](https://abgaddi.github.io/course_projects/)
+[Linear Regression Analysis](https://abgaddi.github.io/course_projects/LRA/LRA)
 
 *final project using **R** to demonstrate steps of **linear regression analysis** to see the effectiveness of predicting food choices on GPA*
 
