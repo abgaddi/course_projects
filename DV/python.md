@@ -1,11 +1,11 @@
 # Python Samples
 
-### Barplot
+### barplot
 ![image](barplot.png)
 
 &nbsp;
 
-### Subplots
+### subplots
 ![image](subplots.png)
 
 &nbsp;
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-### Heatmap
+### heatmap
 ![image](heatmap.png)
 
 &nbsp;
