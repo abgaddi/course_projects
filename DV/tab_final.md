@@ -14,33 +14,26 @@ In order to visualize and determine any changes, a Tableau dashboard was created
 
 Looking closer at the context of these lyrics illustrates the significant shift of the group’s message.  In the earlier years, the lyric ‘love’ and ‘girl’ were used in young, school crush type songs:
 
-*“wanna be **love**d…” – I Like It, 2013*
-
-*“I’m so hungry for your **love**” – Boy In Luv, 2014*
-
+*“wanna be **love**d…” – I Like It, 2013*  \
+*“I’m so hungry for your **love**” – Boy In Luv, 2014* \
 *“I think about you all night **girl**” – 24/7=Heaven, 2014*
 
 In comparison to 2018, the highest occurrence of ‘love’, the context of the lyric was used in self-love/appreciation rather than towards another person:
 
-> *“I’m the one I should **love**” – Epiphany, 2018*
->
-> *“I’m learning how to **love** myself” – Answer: Love Myself, 2018*
-> 
-> *“because I came to have so many things that I **love**” – Anpanman, 2018*
+*“I’m the one I should **love**” – Epiphany, 2018* \
+*“I’m learning how to **love** myself” – Answer: Love Myself, 2018* \
+*“because I came to have so many things that I **love**” – Anpanman, 2018*
 
 The decline of the lyric ‘girl’ may be from increased awareness and consideration for the fan’s preferred pronouns and to address an increased range of fanbase.  Another interesting observation was the way the lyrics like ‘dream’ was used in their first year and most recent year.  In 2013, ‘dream’ alludes to ambition and is used with uncertainty, much like the anxiety adolescents face when having to choose a career path:
 
-> *“hey, what’s your **dream**?” – No More Dream, 2013*
-> 
->*“my **dream** is gone, no time to breath” – N.O., 2013*
->
->*“I know it’s an unreasonable dream, but it’s my **dream**” – If I Ruled the World, 2013*
+*“hey, what’s your **dream**?” – No More Dream, 2013* \
+*“my **dream** is gone, no time to breath” – N.O., 2013* \
+*“I know it’s an unreasonable dream, but it’s my **dream**” – If I Ruled the World, 2013*
 
 In 2020, the lyric ‘dream’ is also used with uncertainty but used in a more literal, fantasy connotation.  The difference in these songs is that the fear is more about being awaken from a dream:
 
->*“am I still in a **dream**?” – We Are Bulletproof: The Eternal, 2020*
->
->*“was it a **dream**?” – Stay, 2020*
+*“am I still in a **dream**?” – We Are Bulletproof: The Eternal, 2020* \
+*“was it a **dream**?” – Stay, 2020*
 
 In conclusion, BTS’s lyrics have changed from when they first debuted to their most recent album release.  As the group has grown and aged together, the message of their songs and lyrics seems to  reflect their experiences and have also grown with them.  They continue to write about love and their fears. While in their younger school days, their lyrics were about having a trivial crush and worrying about the future.  As they’ve become adults, their lyrics express a mature love for themselves, but their worry has changed into the fear of waking up and losing all they have.
 
