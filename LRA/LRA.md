@@ -1,22 +1,8 @@
 # Linear Regression Analysis
 
-![slide](food.png)
-![slide](food%20(1).png)
-![slide](food%20(2).png)
-![slide](food%20(3).png)
-![slide](food%20(4).png)
-![slide](food%20(5).png)
-![slide](food%20(6).png)
-![slide](food%20(7).png)
-![slide](food%20(8).png)
-![slide](food%20(9).png)
-![slide](food%20(10).png)
-![slide](food%20(11).png)
-![slide](food%20(12).png)
-![slide](food%20(13).png)
-![slide](food%20(14).png)
+[Presentation](https://abgaddi.github.io/course_projects/TM/food_presentation.pdf)
 
-# Summary
+# Written Analysis
 It is well known that effective studying done by a student brings improvement to his/her GPA.  So, as college students approaching the end of the semester, this analysis was conducted to perhaps answer our curiosity of seeing if another factor outside of studying, such as our food choices, could improve GPA. This analysis looks at the question on whether a college student’s food associations and choices have a relationship to his/her GPA. The data used was collected from a survey from Mercyhurst University students.  Responses from the survey are compromised from individual’s food choices, ideas of nutrition, as well as a few demographics.  
 
 In the first model created, all the food choice responses from the dataset were chosen as variables since they are the interest of this analysis along with most demographic variables.  All of the independent variables were qualitative with two or more levels.  Conducting a first order linear regression on all these variables resulted in a p-value less than an alpha of 0.05 and an adjusted R squared showing about 28% of the variance can be explained by this first model.  Although this model is statistically useful by the Global F Test, the adjusted R squared is not very high, so the next strategy attempted was to reduce these variables.  Performing a stepwise regression, both forward and backward, showed that the significant variables were coffee, soup, fries, income, grade level and father education.
