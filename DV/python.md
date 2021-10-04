@@ -7,7 +7,9 @@
 
 ## Subplots
 ![image](subplots.png)
+
 &nbsp;
+
 ![image](iris.png)
 
 &nbsp;
@@ -24,7 +26,9 @@
 
 ### PCA
 ![image](pca.png)
+
 &nbsp;
+
 ![image](pca_m2.png)
 
 &nbsp;
