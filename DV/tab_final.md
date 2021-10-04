@@ -14,11 +14,11 @@ In order to visualize and determine any changes, a Tableau dashboard was created
 
 Looking closer at the context of these lyrics illustrates the significant shift of the group’s message.  In the earlier years, the lyric ‘love’ and ‘girl’ were used in young, school crush type songs:
 
-> *“wanna be **love**d…” – I Like It, 2013*
->
-> *“I’m so hungry for your **love**” – Boy In Luv, 2014*
->
-> *“I think about you all night **girl**” – 24/7=Heaven, 2014*
+*“wanna be **love**d…” – I Like It, 2013*
+
+*“I’m so hungry for your **love**” – Boy In Luv, 2014*
+
+*“I think about you all night **girl**” – 24/7=Heaven, 2014*
 
 In comparison to 2018, the highest occurrence of ‘love’, the context of the lyric was used in self-love/appreciation rather than towards another person:
 
